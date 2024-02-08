@@ -2,7 +2,7 @@
 Looking for someone 
 
 💼 my portfolio
-<a href=https://github.com/felixAmark92/Chess-Game>Chess game with stockfish</a> Chess game with stockfish
+<a href=https://github.com/felixAmark92/Chess-Game>Chess game with stockfish</a>
 
 
 
