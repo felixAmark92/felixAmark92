@@ -1,8 +1,9 @@
 ### Hi there 👋
-Looking for someone 
+Looking for someone who loves coding? you have come to the right place!
 
-💼 my portfolio
-<a href=https://github.com/felixAmark92/Chess-Game>Chess game with stockfish</a>
+<h2>💼 my portfolio </h2> 
+<a href=https://github.com/felixAmark92/Chess-Game>Chess game/a>
+<p>chess game where you can play against a friend or against stockfish</p>
 
 
 
