@@ -1,4 +1,10 @@
 ### Hi there 👋
+Looking for someone 
+
+💼 my portfolio
+<a href=https://github.com/felixAmark92/Chess-Game>Chess game with stockfish</a> Chess game with stockfish
+
+
 
 <!--
 **felixAmark92/felixAmark92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
