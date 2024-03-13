@@ -3,8 +3,18 @@
 Looking for someone who loves coding? you have come to the right place!
 
 <h2>💼 my portfolio </h2> 
-<a href=https://github.com/felixAmark92/Chess-Game>Chess game</a>
-<p>Chess game where you can play against a friend or stockfish</p>
+<a href=https://github.com/felixAmark92/Chess-Game>♞ Chess ♞</a>
+<p> Play against a friend or if youre up against a challenge, against stockfish!</p>
+
+<a href=https://felixamark92.github.io/>Awesome Games</a>
+<p>a mockup website for purchasing games</p>
+
+<a href=https://github.com/felixAmark92/Snake-game>🐍 Snake 🐍</a>
+<p>Terminal based snake game. also checkout the two-player branch!</p>
+
+
+
+
 
 <!--
 **felixAmark92/felixAmark92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
