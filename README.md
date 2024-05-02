@@ -17,7 +17,7 @@ Looking for someone who loves coding? you have come to the right place!
 
 |                                    Project                                    |                        Description                         |                                   Stack                                    |     
 |:-----------------------------------------------------------------------------:|:----------------------------------------------------------:|:--------------------------------------------------------------------------:|
-|  <a href=https://github.com/felixAmark92/Graphics-engine>Graphics engine</a>  |  My own simple graphics engine built with C++ and OpenGL   | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) |
+|  <a href=https://github.com/felixAmark92/Graphics-engine>Graphics engine</a>  |  Graphics engine built with C++ and OpenGL   | [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev) |
 | <a href=https://github.com/felixAmark92/Matrix-rotations/>Rotating Sphere</a> |   Simple example of 3D using matrix rotations in Python    | [![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)  |
 
 
