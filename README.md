@@ -4,14 +4,15 @@ Looking for someone who loves coding? you have come to the right place!
 
 <h1>💼 Portfolio </h1>
 
-<h2>.Net </h2>
+<h2>Main projects</h2>
 
-| Project                                                                              | Description                                                                                                              | Stack                                                                                           |     
-|--------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------|
-| <a href=https://github.com/felixAmark92/Chess-Game>♞ Chess ♞</a>                     | <p>Chess game where you play against stockfish.                                                   | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                |
-| <a href=https://github.com/felixAmark92/Garden-supplies-Webshop>Garden supplies</a>  | <p>An ecommerce website for all your gardening tools</p>  <p>Build using Asp.Net, Blazor server and Entity Framework</p> | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap)](https://skillicons.dev) |
-| <a href=https://github.com/felixAmark92/Encrypt>Encrypt</a>                          | <p> Encryption service for your directories</p>                                                                          | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                |
-| <a href=https://github.com/felixAmark92/Snake-game>🐍 Snake 🐍</a>                   | <p>Terminal based snake game. also checkout the two-player branch!</p>                                                   | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                |                                                                    | 
+| Project                                                                             | Description                                                                                                              | Stack                                                                                               |     
+|-------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------|
+| <a href=https://github.com/felixAmark92/Typing-practice > GTP Typing practice </a>  | Typing practice where you can enter custom prompt to get AI generated text to practice on for your own needs.            | [![My Skills](https://skillicons.dev/icons?i=react,ts,js)](https://skillicons.dev)                  |
+| <a href=https://github.com/felixAmark92/Chess-Game>♞ Chess ♞</a>                    | <p>Chess game where you play against stockfish.                                                                          | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                    |
+| <a href=https://github.com/felixAmark92/Garden-supplies-Webshop>Garden supplies</a> | <p>An ecommerce website for all your gardening tools</p>  <p>Build using Asp.Net, Blazor server and Entity Framework</p> | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs,html,css,bootstrap)](https://skillicons.dev) |
+| <a href=https://github.com/felixAmark92/Encrypt>Encrypt</a>                         | <p> Encryption service for your directories</p>                                                                          | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                    |
+| <a href=https://github.com/felixAmark92/Snake-game>🐍 Snake 🐍</a>                  | <p>Terminal based snake game. also checkout the two-player branch!</p>                                                   | [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)                    |                                                                    | 
 
 <h2>Graphics programming</h2>
 
