@@ -27,7 +27,7 @@ Looking for someone who loves coding? you have come to the right place!
 |                            Project                            |                     Description                     |                                                Stack                                                |     
 |:-------------------------------------------------------------:|:---------------------------------------------------:|:---------------------------------------------------------------------------------------------------:|
 | <a href=https://github.com/felixAmark92/WebApi>Video site</a> | Website where you can upload and stream your videos | [![My Skills](https://skillicons.dev/icons?i=react,ts,bootstrap,dotnet,cs)](https://skillicons.dev) |
-| <a href=https://github.com/felixAmark92/quickcrop>Quickcrop</a>  | Program for quickly cropping images built using wpf |          [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)           |
+| <a href=https://github.com/felixAmark92/quickcrop>Quickcrop</a>  | Program for quickly cropping images built using WPF |          [![My Skills](https://skillicons.dev/icons?i=dotnet,cs)](https://skillicons.dev)           |
 
 <!--
 **felixAmark92/felixAmark92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
